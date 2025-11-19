@@ -1,1 +1,1 @@
-![image](file:///Users/semen_fedorov/Documents/Java_project_myself_studing/Онлайн-магазин_coffee_tea/Архитектура%20online_coffee_store.png)
+![image](https://drive.google.com/file/d/1H5VQbQu8jHiuMuQ6b2HKV9VwFoXUfXC5/view?usp=share_link)
